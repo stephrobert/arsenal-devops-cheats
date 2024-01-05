@@ -5,7 +5,6 @@ amount of available disk space for file systems.
 
 #plateform/multiple #target/local #cat/SysAdmin
 
-
 % Unix, Linux, disk space, system administration
 
 ## df - Display File System Disk Space Usage
