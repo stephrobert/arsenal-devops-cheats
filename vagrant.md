@@ -4,6 +4,8 @@ https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/vagrant/int
 
 % libvirt, virtualbox, vagrant, hyper-v
 
+#plateform/multiple #target/local #cat/DevOps
+
 ## vagrant - start a box
 
 ```
@@ -29,7 +31,6 @@ vagrant ssh
 ```
 
 ## vagrant - add a box from packer
-
 
 ```
 vagrant box add <path-to-package.box> --name <name> --force

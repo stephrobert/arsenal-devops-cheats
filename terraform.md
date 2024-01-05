@@ -4,6 +4,8 @@ https://www.terraform.io/
 
 % Terraform, infrastructure as code, HashiCorp, cloud management
 
+#plateform/multiple #target/local #cat/DevOps
+
 ## Terraform - Initialize a Directory
 
 Initializes a new or existing Terraform configuration.
