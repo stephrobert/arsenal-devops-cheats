@@ -17,4 +17,4 @@ Todo on Admin Sys commands :
 - df
 - sar
 - find
-- ...
+- systemctl
