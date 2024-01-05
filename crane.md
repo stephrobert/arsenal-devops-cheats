@@ -2,13 +2,13 @@
 
 % docker
 
-## Copie une image d'une registry source vers une autre
+## Copy an image from one source registry to another
 
 ```
 crane copy <image_source> <image_destination>
 ```
 
-## Récupère le manifest d'une image
+## Retrieve the manifest of an image.
 
 ```
 crane manifest <image|ubuntu> | jq
